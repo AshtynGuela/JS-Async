@@ -1,3 +1,4 @@
+//Callback - function passed as an argument, intended to be executed later typically when an async operation completes
 function greet(name, callback) { //Main function that accepts a callback
     const greetingmessage = `Hello, ${name}`; //Greeting message
     callback(greetingmessage); //Callback function is used to pass the greeting to it
