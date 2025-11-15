@@ -7,4 +7,4 @@ More explanations are available within the files.
 ---
 
 ### Sources
-- **W3Schools:** https://www.w3schools.com/js/js_control_flow.asp
+- [W3Schools – JavaScript Control Flow](https://www.w3schools.com/js/js_control_flow.asp)
